@@ -1,0 +1,7 @@
+.section12-line {
+    /* width: 288px; */
+    height: 56.1px;
+    background-color: var(--white);
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
