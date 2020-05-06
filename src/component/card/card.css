@@ -1,0 +1,73 @@
+.section12 {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 3em;
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.section12-card {
+    background-color: #fff;
+    box-shadow: -1px 1px 5px 0
+}
+
+.gold {
+    z-index: 3;
+    transform: scaleY(1.1);
+    box-shadow: 1px 1px 10px
+}
+
+.top-square {
+    width: 288px;
+    height: 289.2px;
+    box-shadow: 0 1px 0 0 #cccccc;
+    /* background-color: var(--white); */
+    border-bottom: 1px solid gray;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.top-square button {
+    /* width: 159px; */
+    height: 48px;
+    border-radius: 4px;
+    background-color: #2c0fef;
+    color: #fff;
+}
+
+.basic-plan {
+    background-color: #a281e8;
+    color: #fff;
+}
+
+.gold-plan {
+    background-color: #f86b27;
+    color: #fff;
+}
+
+.diamond-plan {
+    color: #fff;
+    background-color: #4285f4;
+}
+
+
+.yes {
+    width: 21px;
+    height: 17px;
+    margin: 0 auto;
+}
+
+.two-yes {
+    margin: 0 auto;
+    width: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.add-on {
+    margin-left: 7em;
+}
