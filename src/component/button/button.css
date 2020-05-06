@@ -8,6 +8,7 @@
     border: solid 2px #2c0fef;
     padding: 0.3em;
     margin: auto;
+    margin-top: auto;
 }
 
 .btn:hover {
