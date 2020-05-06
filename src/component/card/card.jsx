@@ -28,7 +28,7 @@ export default function Card() {
             </div>
             {item.tag}
             <h3>{item.price}</h3>
-            <h4>Discount:{item.discount}</h4>
+            <h4>Discount: {item.discount}</h4>
             <span>for 1 month</span>
             <br />
             <Button />

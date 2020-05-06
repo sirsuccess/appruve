@@ -1,7 +1,8 @@
 .section12-line {
-    /* width: 288px; */
-    height: 56.1px;
-    background-color: var(--white);
-    border-bottom: 1px solid gray;
-    text-align: center;
+  /* width: 288px; */
+  height: 35px;
+  background-color: var(--white);
+  border-bottom: 1px solid gray;
+  text-align: center;
+  padding-top: 0.5em;
 }
