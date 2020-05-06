@@ -10,9 +10,11 @@ export default function Card() {
   return (
     <div className="section12">
       {CardData.map((item, i) => (
-        <div className="section12-card">
+        <div className={item.name === "Gold" ? "gold" : "section12-card"}>
           <div className="top-square">
-            <div className="basic-plan">{item.name}</div>
+            <div className={item.name === "Gold" ? "gold-plan" : "basic-plan"}>
+              {item.name}
+            </div>
             {item.tag}
             <h3>{item.price}</h3>
             <span>for 1 month</span>

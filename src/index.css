@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("https://softcom.ng/uploads/headers/banner.jpg");
+  width: 100%;
 }
 
 code {
