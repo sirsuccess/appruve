@@ -1,0 +1,203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when called  1`] = `
+<div
+  className="section12"
+>
+  <div
+    className="section12-card"
+  >
+    <div
+      className="top-square"
+    >
+      <div
+        className="basic-plan"
+      >
+        Bronze
+      </div>
+      “I’m good at writing”
+      <h3>
+        ₦10,000
+      </h3>
+      <h4>
+        Discount:
+        ₦0
+      </h4>
+      <span>
+        for 1 month
+      </span>
+      <br />
+      <div
+        className="btn"
+      >
+        GET STARTED
+      </div>
+    </div>
+    <div
+      className="section12-line"
+    >
+      Listening Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Listening Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Reading Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      
+    </div>
+    <div
+      className="section12-line"
+    >
+      
+    </div>
+    <div
+      className="section12-line"
+    >
+      
+    </div>
+    <div
+      className="section12-line"
+    >
+      
+    </div>
+  </div>
+  <div
+    className="gold"
+  >
+    <div
+      className="top-square"
+    >
+      <div
+        className="gold-plan"
+      >
+        Gold
+      </div>
+      “I just need to pass all”
+      <h3>
+        ₦15,000
+      </h3>
+      <h4>
+        Discount:
+        ₦8,000
+      </h4>
+      <span>
+        for 1 month
+      </span>
+      <br />
+      <div
+        className="btn"
+      >
+        GET STARTED
+      </div>
+    </div>
+    <div
+      className="section12-line"
+    >
+      Listening Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Listening Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Reading Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Speaking Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Writing Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Detailed Feedbacks
+    </div>
+    <div
+      className="section12-line"
+    >
+      Notifications Channel
+    </div>
+  </div>
+  <div
+    className="section12-card"
+  >
+    <div
+      className="top-square"
+    >
+      <div
+        className="diamond-plan"
+      >
+        Silver
+      </div>
+      “I want 8.5 in writing”
+      <h3>
+        ₦10,000
+      </h3>
+      <h4>
+        Discount:
+        ₦5,000
+      </h4>
+      <span>
+        for 1 month
+      </span>
+      <br />
+      <div
+        className="btn"
+      >
+        GET STARTED
+      </div>
+    </div>
+    <div
+      className="section12-line"
+    >
+      Listening Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Listening Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Reading Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Speaking Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      Writing Mock Tests
+    </div>
+    <div
+      className="section12-line"
+    >
+      
+    </div>
+    <div
+      className="section12-line"
+    >
+      
+    </div>
+  </div>
+</div>
+`;

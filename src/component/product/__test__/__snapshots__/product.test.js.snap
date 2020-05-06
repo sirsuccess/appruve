@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when called  1`] = `
+Array [
+  <div
+    className="section12-line"
+  >
+    Listening Mock Tests
+  </div>,
+  <div
+    className="section12-line"
+  >
+    Listening Mock Tests
+  </div>,
+  <div
+    className="section12-line"
+  >
+    Reading Mock Tests
+  </div>,
+  <div
+    className="section12-line"
+  >
+    
+  </div>,
+  <div
+    className="section12-line"
+  >
+    
+  </div>,
+  <div
+    className="section12-line"
+  >
+    
+  </div>,
+  <div
+    className="section12-line"
+  >
+    
+  </div>,
+]
+`;

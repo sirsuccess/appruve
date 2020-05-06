@@ -5,8 +5,10 @@ import "./product.css";
 export default function Product({ product }) {
   return (
     <>
-      {product.map((item) => (
-        <div className="section12-line">{item}</div>
+      {product.map((item, i) => (
+        <div key={i} className="section12-line">
+          {item}
+        </div>
       ))}
     </>
   );
