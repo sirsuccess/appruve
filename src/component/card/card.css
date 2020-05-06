@@ -1,7 +1,7 @@
 .section12 {
     display: flex;
     width: 80%;
-
+    flex-wrap: wrap;
     margin-top: 3em;
     text-align: center;
     align-items: center;
@@ -14,7 +14,8 @@
 
 .section12-card {
     background-color: #fff;
-    box-shadow: -1px 1px 5px 0
+    box-shadow: -1px 1px 5px 0;
+    margin-top: 3em;
 }
 
 .gold {
@@ -76,4 +77,13 @@
 
 .add-on {
     margin-left: 7em;
+}
+
+@media all and (max-width: 718px) {
+    .gold {
+        z-index: 1;
+        transform: scaleY(1);
+        margin-top: 3em;
+
+    }
 }
