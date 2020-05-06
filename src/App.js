@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div className="title">
-        <h2>TRANSACTION FEE CALCULATOR</h2>
+        <h1>NEW PRICE PLAN</h1>
       </div>
       <Card />
     </>
